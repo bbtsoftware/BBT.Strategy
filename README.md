@@ -37,5 +37,5 @@ How to obtain, configure, and use BBT.StrategyPattern.
 On Windows PowerShell run:
 
 ```powershell
-`dotnet build .\src\BBT.StrategyPattern.sln`
+dotnet build .\src\BBT.StrategyPattern.sln
 ```
